@@ -1,0 +1,58 @@
+body{
+   
+    background-size: cover;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 40px;
+    
+}
+
+header{
+    background: rgb(204, 126, 74);
+    border: 2px solid rgb(49, 47, 49);
+    border-radius: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.login{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 2in;
+    margin-top: 1.5in;
+    border: 3px solid rgb(15, 14, 14);
+    border-radius: 30px;
+    
+
+}
+form{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+body{
+    background-color: rgb(91, 211, 241);
+}
+
+footer {
+    background: rgb(0, 0, 0);
+    color: blanchedalmond;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: x-small;
+}
+div{
+      font-size: x-large;
+      margin-top: 15px;
+}
+
+input{
+      font-size: 15px;
+      margin-left: 10px;
+}
