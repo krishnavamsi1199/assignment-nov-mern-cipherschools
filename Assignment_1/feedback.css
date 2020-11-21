@@ -1,10 +1,5 @@
 body{
-   
-    background-size: cover;
-    margin-left: 80px;
-    margin-right: 80px;
-    margin-bottom: 40px;
-    
+    background-color: rgb(91, 211, 241);
 }
 
 header{
@@ -19,7 +14,7 @@ header{
     font-weight: 600;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.login{
+.feedback{
     margin-left: 80px;
     margin-right: 80px;
     margin-bottom: 2in;
@@ -33,9 +28,6 @@ form{
     margin-bottom: 40px;
     text-align: center;
 }
-body{
-    background-color: rgb(91, 211, 241);
-}
 
 footer {
     background: rgb(0, 0, 0);
@@ -46,11 +38,11 @@ footer {
     font-size: x-small;
 }
 div{
-      font-size: x-large;
-      margin-top: 15px;
+    font-size: x-large;
+    margin-top: 15px;
 }
 
 input{
-      font-size: 15px;
-      margin-left: 10px;
+    font-size: 15px;
+    margin-left: 10px;
 }

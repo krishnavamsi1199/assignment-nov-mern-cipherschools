@@ -65,9 +65,10 @@ div{
 .navbar{
     background: rgb(204, 126, 74);
     color: blanchedalmond;
-   padding:10px;
-   border: 2px solid rgb(49, 47, 49);
-   border-radius: 10px;
+    text-align: center;
+    padding:10px;
+    border: 2px solid rgb(49, 47, 49);
+    border-radius: 20px;
 }
 body{
     background-color: rgb(91, 211, 241);
