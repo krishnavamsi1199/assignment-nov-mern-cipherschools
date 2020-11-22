@@ -63,6 +63,7 @@ div{
     margin-left: 12in;
 }
 .navbar{
+    position: fixed;
     background: rgb(204, 126, 74);
     color: blanchedalmond;
     text-align: center;
